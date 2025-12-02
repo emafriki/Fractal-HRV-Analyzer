@@ -1,4 +1,4 @@
-# FractalApp — Sierpiński Fractal Generator for HRV Time Series
+# FractalApp — Sierpinski Fractal Generator for HRV Time Series
 **Author:** Alma Rocío Patiño Chávez  
 **Version:** 1.0  
 
@@ -11,8 +11,8 @@ The app also calculates the fractal dimension using the box-counting algorithm a
 
 - Load any single-column time-series file (`.txt`, `.csv`, `.dat`).
 - Generate:
-  - **Sierpiński Triangle (2D)**
-  - **Sierpiński Tetrahedron (3D)**
+  - **Sierpinski Triangle (2D)**
+  - **Sierpinski Tetrahedron (3D)**
 - Three modes for point labeling:
   - **Control**
   - **Patient**
@@ -94,7 +94,7 @@ FractalApp/
 If you use this software in a research article, please cite it as:
 
 > Patiño-Chávez, A. R. (2025). *FractalApp: A Python Interface for Sierpiński-Based Fractal Analysis of Time-Series Data*. GitHub Repository.  
-> URL: https://github.com/YOUR-USERNAME/YOUR-REPO-NAME
+> URL: https://github.com/emafriki/fractal-HRV-Analayzer
 
 **If your article is published**, update the citation to the final journal format.
 
